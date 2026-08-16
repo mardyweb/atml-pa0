@@ -1,0 +1,27 @@
+{
+  "layer1": {
+    "tsne_s": 8.13,
+    "umap_s": 2.71,
+    "speedup": 3.01
+  },
+  "layer2": {
+    "tsne_s": 6.77,
+    "umap_s": 2.83,
+    "speedup": 2.39
+  },
+  "layer3": {
+    "tsne_s": 7.88,
+    "umap_s": 2.47,
+    "speedup": 3.19
+  },
+  "layer4": {
+    "tsne_s": 8.36,
+    "umap_s": 2.67,
+    "speedup": 3.13
+  },
+  "mean_layers_2_4": {
+    "tsne_s": 7.67,
+    "umap_s": 2.66,
+    "speedup": 2.89
+  }
+}

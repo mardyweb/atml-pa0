@@ -1,5 +1,5 @@
 {
-  "image1": {
+  "image1 (1)": {
     "top1_label": "acoustic guitar",
     "top1_prob": 0.9936,
     "top5": [
@@ -25,7 +25,7 @@
       }
     ]
   },
-  "image2": {
+  "image2 (1)": {
     "top1_label": "Egyptian cat",
     "top1_prob": 0.6581,
     "top5": [
@@ -51,7 +51,7 @@
       }
     ]
   },
-  "image3": {
+  "image3 (1)": {
     "top1_label": "shower curtain",
     "top1_prob": 0.8657,
     "top5": [

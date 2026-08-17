@@ -1,0 +1,80 @@
+{
+  "image1": {
+    "top1_label": "acoustic guitar",
+    "top1_prob": 0.9936,
+    "top5": [
+      {
+        "label": "acoustic guitar",
+        "prob": 0.9936
+      },
+      {
+        "label": "electric guitar",
+        "prob": 0.0036
+      },
+      {
+        "label": "pick, plectrum, plectron",
+        "prob": 0.0014
+      },
+      {
+        "label": "banjo",
+        "prob": 0.0001
+      },
+      {
+        "label": "cello, violoncello",
+        "prob": 0.0001
+      }
+    ]
+  },
+  "image2": {
+    "top1_label": "Egyptian cat",
+    "top1_prob": 0.6581,
+    "top5": [
+      {
+        "label": "Egyptian cat",
+        "prob": 0.6581
+      },
+      {
+        "label": "tabby, tabby cat",
+        "prob": 0.1919
+      },
+      {
+        "label": "tiger cat",
+        "prob": 0.0818
+      },
+      {
+        "label": "lynx, catamount",
+        "prob": 0.0107
+      },
+      {
+        "label": "Persian cat",
+        "prob": 0.0102
+      }
+    ]
+  },
+  "image3": {
+    "top1_label": "shower curtain",
+    "top1_prob": 0.8657,
+    "top5": [
+      {
+        "label": "shower curtain",
+        "prob": 0.8657
+      },
+      {
+        "label": "window shade",
+        "prob": 0.0809
+      },
+      {
+        "label": "theater curtain, theatre curtain",
+        "prob": 0.0204
+      },
+      {
+        "label": "quilt, comforter, comfort, puff",
+        "prob": 0.003
+      },
+      {
+        "label": "window screen",
+        "prob": 0.002
+      }
+    ]
+  }
+}
